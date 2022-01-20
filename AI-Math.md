@@ -1,5 +1,6 @@
-## Basic
-**Vector**
+# Basic
+*Basic of basic*
+## Vector
 
 ```python
 import numpy as np
@@ -41,7 +42,7 @@ def angle(x, y):
   return theta
 ```
 
-**Matrix**
+## Matrix
 ```python
 ## 3X3
 X = np.array([[1, -2, 3],
