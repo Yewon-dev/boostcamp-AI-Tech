@@ -42,6 +42,8 @@ def angle(x, y):
   return theta
 ```
 
+---------
+
 ## Matrix
 ```python
 ## 3X3
@@ -85,4 +87,6 @@ np.inner(X, Y)
 
 **유사 역행렬 (무어-펜로즈(Moore-Penrose) 역행렬) A+**
 행과 열의 개수가 달라도 역행렬 계산 가능
+
+
 
