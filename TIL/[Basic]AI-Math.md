@@ -89,4 +89,15 @@ np.inner(X, Y)
 행과 열의 개수가 달라도 역행렬 계산 가능
 
 
-
+## Softmax
+```python
+def softmax(vec):
+  # 출력값에 대해 지수함수를 씌움
+  # 너무 큰 벡터가 들어오면 overflow가 일어날 수 있어서
+  # max값은 vec로 빼두고 exp적용
+  denumerator = np.exp(vec = np.max(vec, axis=-1, keepdims=True))
+  # 모든 denumerator을 더해줌 (분자)
+  numerator = np.sum(denumerator, axis=-1, keepdims=True)
+  val = denumerator / numerator
+  return val
+```
