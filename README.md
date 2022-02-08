@@ -7,3 +7,8 @@
 참고 사이트
 
 [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+
+
+AI 논문 리뷰 및 구현
+
+[AI Paper review](https://github.com/Yewon-dev/boostcamp-AI-Tech/tree/master/AI-Paper-Review)
