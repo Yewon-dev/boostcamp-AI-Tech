@@ -7,5 +7,5 @@
 
 - 참고 사이트
 
-[Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
-[CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+  - [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+  - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
