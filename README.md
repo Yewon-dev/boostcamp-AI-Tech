@@ -9,3 +9,4 @@
 
   - [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
   - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+  - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
