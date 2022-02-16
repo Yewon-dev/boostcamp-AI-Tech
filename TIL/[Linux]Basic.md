@@ -12,7 +12,7 @@
 
 ### 기본 명령어
 
-- `man python` : shell comman의 메뉴얼 문서 출력
+- `man python` : shell command의 메뉴얼 문서 출력
 - `mmkdir` : 폴더 생성
 - `pwd` : 현재 폴더의 절대경로
 - `echo`  : 텍스트 출력
