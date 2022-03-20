@@ -12,3 +12,5 @@
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
   - [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/?_ga=2.87771160.1269641126.1644936081-210899603.1644936081)
   - [PapersWithCode](https://paperswithcode.com/)
+  - [YouTube | Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
+
