@@ -14,4 +14,5 @@
   - [PapersWithCode](https://paperswithcode.com/)
   - [YouTube | Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
   - [Browse State-of-the-Art](https://paperswithcode.com/sota)
+  - [Denoising diffusion Implementation](https://github.com/lucidrains/denoising-diffusion-pytorch)
 
