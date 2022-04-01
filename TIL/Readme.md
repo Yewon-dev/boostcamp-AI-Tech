@@ -4,3 +4,4 @@
 - WandB
 - FiftyOne
 - 강의 내용 정리
+- 논문 읽기
