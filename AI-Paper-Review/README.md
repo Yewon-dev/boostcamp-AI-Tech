@@ -8,3 +8,4 @@
 - Generative Modeling by Estimating Gradients of the Data Distribution - [Original paper](https://arxiv.org/abs/1907.05600)
 - Score-Based Generative Modeling through Stochastic Differential Equations - [Original paper](https://arxiv.org/abs/2011.13456)
 - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations - [Original paper](https://arxiv.org/abs/2108.01073)
+- Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2) - [Original Paper](https://arxiv.org/abs/2204.06125)
