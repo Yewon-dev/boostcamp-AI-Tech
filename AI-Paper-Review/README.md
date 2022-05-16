@@ -1,5 +1,11 @@
-# 스터디 계획
-- ~ 2/3 ResNet (CVPR 2016) Review - [Original paper](https://arxiv.org/abs/1512.03385) / [Code Implementation](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/ResNet.ipynb)
-- ~ 2/7 R-CNN (CVPR 2014) Review - [Original paper](https://arxiv.org/pdf/1311.2524.pdf) 
-- ~ 2/14 Attention is All You Need (NIPS 2017) Review - [Original paper](https://arxiv.org/abs/1706.03762) / [Paper Review](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/Attention_Is_All_You_Need.ipynb)
-- ~ 2/21 Vision Transformer Review - [Original paper](https://arxiv.org/abs/2010.11929) / [Code Implementation](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/Vision_Transformer.ipynb)
+# 논문 스터디
+- ResNet (CVPR 2016) Review - [Original paper](https://arxiv.org/abs/1512.03385) / [Code Implementation](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/ResNet.ipynb)
+- R-CNN (CVPR 2014) Review - [Original paper](https://arxiv.org/pdf/1311.2524.pdf) 
+- Attention is All You Need (NIPS 2017) Review - [Original paper](https://arxiv.org/abs/1706.03762) / [Paper Review](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/Attention_Is_All_You_Need.ipynb)
+- Vision Transformer Review - [Original paper](https://arxiv.org/abs/2010.11929) / [Code Implementation](https://github.com/Yewon-dev/boostcamp-AI-Tech/blob/master/AI-Paper-Review/Vision_Transformer.ipynb)
+---------
+- Denoising Diffusion Probabilistic Models - [Original paper](https://arxiv.org/abs/2006.11239)
+- Generative Modeling by Estimating Gradients of the Data Distribution - [Original paper](https://arxiv.org/abs/1907.05600)
+- Score-Based Generative Modeling through Stochastic Differential Equations - [Original paper](https://arxiv.org/abs/2011.13456)
+- SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations - [Original paper](https://arxiv.org/abs/2108.01073)
+- Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2) - [Original Paper](https://arxiv.org/abs/2204.06125)
